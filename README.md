@@ -11,5 +11,5 @@ Patient-Triaging-with-Quantum-ML is a hybrid quantum computing-based approach fo
 * Need customized Quantum Computing solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-rzcivxultagy2).
+The product can be found [here](https://aws.amazon.com/marketplace/).
 
