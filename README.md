@@ -6,8 +6,8 @@ Patient-Triaging-with-Quantum-ML is a hybrid quantum computing-based approach fo
 
 ## Product Highlight 
 
-* The solution involves a novel approach to clustering by formulating as a constrained optimization problem and labeling the patients' triage clusters using a data-driven approach. This allows for better differentiation between categories of patients that require time-sensitive treatments, facilitating targeted interventions, reducing unnecessary delays, and optimizing resource allocation within healthcare systems. The use of quantum hybrid solvers reduces the time and space required to solve clustering problems and provides better quality results.
-* This solution utilizes Dwave Leap™ quantum cloud service and provides solution using real-time access to  quantum computer and quantum hybrid solver service.  
+* The solution uses a data driven approach to identify patients that require time-sensitive treatments, facilitating targeted interventions, reducing unnecessary delays, and optimizing resource allocation within healthcare systems.
+* The solution uses quantum hybrid solvers from D-Wave to reduce the time and space required while providing better quality results.  
 * Need customized Quantum Computing solutions? Get in touch!
 
 ## Amazon Marketplace Link
